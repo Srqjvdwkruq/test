@@ -1,0 +1,50 @@
+{
+    "Animal": [
+        "dog",
+        "cat",
+        "elephant",
+        "tiger",
+        "lion",
+        "giraffe",
+        "zebra",
+        "monkey",
+        "panda",
+        "bear"
+    ],
+    "Sport": [
+        "soccer",
+        "basketball",
+        "tennis",
+        "cricket",
+        "baseball",
+        "golf",
+        "hockey",
+        "boxing",
+        "rugby",
+        "volleyball"
+    ],
+    "Body": [
+        "heart",
+        "brain",
+        "lungs",
+        "stomach",
+        "liver",
+        "kidney",
+        "muscle",
+        "bone",
+        "skin",
+        "eye"
+    ],
+    "Fruits": [
+        "apple",
+        "banana",
+        "orange",
+        "grape",
+        "mango",
+        "peach",
+        "cherry",
+        "watermelon",
+        "pineapple",
+        "strawberry"
+    ]
+}

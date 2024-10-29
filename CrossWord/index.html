@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/style.css">
+    <title>CrossWord</title>
+</head>
+<body>
+    <h1>CrossWord</h1>
+    <button id="StartBtn">PLAY</button>
+    <div id="categoryContainer" class="category-container" style="display: none;">
+        <h2>Select a Category</h2>
+        <div class="category-btns">
+            <button class="category" data-category="Animal">Animal</button>
+            <button class="category" data-category="Sport">Sport</button>
+            <button class="category" data-category="Body">Body</button>
+            <button class="category" data-category="Fruits">Fruits</button>
+        </div>
+        <button id="BackBtn">BACK</button>
+    </div>
+    <div id="gameContainer" style="display: none;">
+        <table id="wordGrid"></table>
+    </div>
+    
+    <script src="./assets/js/function.js"></script>
+    <script src="./assets/js/main.js"></script>
+</body>
+</html>
